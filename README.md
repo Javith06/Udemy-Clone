@@ -25,7 +25,7 @@ This project is a **Udemy Clone** built using **HTML** and **CSS** to replicate 
 
 ## Live Demo
 
-You can view the live website here: [Udemy Clone]()  
+You can view the live website here: [Udemy Clone](https://github.com/Javith06/Udemy-Clone.git)  
 
 
 ## How to Run
